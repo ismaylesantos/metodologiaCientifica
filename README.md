@@ -26,7 +26,8 @@ Repositório da disciplina Metodologia Científica para Computação do <a href 
 
 <p>Escrita de Artigo</p>
 <ul>
-<li><span class="fontstyle0"><a href="http://horizontes.sbc.org.br/index.php/2021/03/guia-rapido-para-submissao-anonima-de-codigo-e-dados-e-facil/">  http://horizontes.sbc.org.br/index.php/2021/03/guia-rapido-para-submissao-anonima-de-codigo-e-dados-e-facil/</a></span></li>    
+<li><span class="fontstyle0"><a href="http://horizontes.sbc.org.br/index.php/2021/03/guia-rapido-para-submissao-anonima-de-codigo-e-dados-e-facil/">  http://horizontes.sbc.org.br/index.php/2021/03/guia-rapido-para-submissao-anonima-de-codigo-e-dados-e-facil/</a></span></li>   
+ <li><span class="fontstyle0"><a href="https://www.researchgate.net/publication/324492713_Produzindo_Artigos_Cientificos_Relacionados_a_Ciencia_da_Computacao"> Produzindo Artigos Científicos Relacionados à Ciência da Computação</a></span></li>   
 </ul> 
 
 <p>Revisão de Artigo</p>
