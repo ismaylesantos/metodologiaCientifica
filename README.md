@@ -38,6 +38,12 @@ Repositório da disciplina Metodologia Científica para Computação do <a href 
 
 <p>Redes Sociais para Pesquisa</p>
 <ul>
+<li><span class="fontstyle0"><a href="https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00019-5/fulltext">Generating scholarly content with ChatGPT: ethical challenges for medical publishing</a></span></li>
+<li><span class="fontstyle0"><a href="https://arxiv.org/abs/2302.03495">Can ChatGPT write a good boolean query for systematic review literature search</a></span></li>
+</ul>  
+
+<p>ChatGPT e Pesquisa</p>
+<ul>
 <li><span class="fontstyle0"><a href="https://www.researchgate.net/">https://www.researchgate.net/</a></span></li>
 </ul>  
 
