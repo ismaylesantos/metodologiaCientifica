@@ -34,6 +34,8 @@ Repositório da disciplina Metodologia Científica para Computação do <a href 
 <ul>
 <li><span class="fontstyle0"><a href="http://horizontes.sbc.org.br/index.php/2021/10/cinco-principios-para-uma-revisao-responsavel/">Cinco princípios para uma revisão responsável</a></span></li>
 <li><span class="fontstyle0"><a href="http://horizontes.sbc.org.br/index.php/2021/01/guia-rapido-para-avaliar-artigos-nao-jogue-no-time-adversario/">http://horizontes.sbc.org.br/index.php/2021/01/guia-rapido-para-avaliar-artigos-nao-jogue-no-time-adversario/</a></span></li>  
+<li><span class="fontstyle0"><a href="https://dl.acm.org/doi/10.5555/1348663.1348680">From conference to journal publication: How conference papers in software engineering are extended for publication in journals</a></span></li>  
+
 </ul>  
 
 <p>ChatGPT e Pesquisa</p>
