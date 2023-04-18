@@ -24,6 +24,14 @@ Repositório da disciplina Metodologia Científica para Computação do <a href 
 <li><span class="fontstyle0"><a href="https://ieeexplore.ieee.org/abstract/document/9402189">Constructive Master's Thesis Work in Industry: Guidelines for Applying Design Science Research</a></span></li>
 </ul>  
 
+<p>Grounded Theory</p>
+<ul>
+<li><span class="fontstyle0"><a href="https://dl.acm.org/doi/pdf/10.1145/2884781.2884833">Grounded Theory in Software Engineering Research: A Critical Review and Guidelines </a></span></li>
+ <li><span class="fontstyle0"><a href="#">Constructing grounded theory: A practical guide through qualitative analysis </a></span></li>
+</ul>  
+
+
+
 <p>Escrita de Artigo</p>
 <ul>
 <li><span class="fontstyle0"><a href="http://horizontes.sbc.org.br/index.php/2021/03/guia-rapido-para-submissao-anonima-de-codigo-e-dados-e-facil/">  http://horizontes.sbc.org.br/index.php/2021/03/guia-rapido-para-submissao-anonima-de-codigo-e-dados-e-facil/</a></span></li>   
