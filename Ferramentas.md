@@ -15,3 +15,8 @@ Repositório da disciplina Metodologia Científica para Computação do <a href 
 <ul> 
 <li><span class="fontstyle0"><a href= "https://www.researchgate.net/">Research Gate</a></span></li>
 </ul>
+
+<strong> Repositório de Dados (Para compartilhar) </strong></p>
+<ul> 
+<li><span class="fontstyle0"><a href= "https://zenodo.org/ ">Zenodo</a></span></li>
+</ul>
