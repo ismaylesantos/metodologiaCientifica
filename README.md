@@ -51,6 +51,11 @@ Repositório da disciplina Metodologia Científica para Computação do <a href 
 <li><span class="fontstyle0"><a href="https://arxiv.org/abs/2302.03495">Can ChatGPT write a good boolean query for systematic review literature search</a></span></li>
 </ul>  
 
+<p>Métodos de Avaliação</p>
+<ul>
+<li><span class="fontstyle0"><a href="http://ia600503.us.archive.org/29/items/nasa_techdoc_20000004342/20000004342.pdf">Development of NASA-TLX (Task Load Index)</a></span></li>
+</ul>  
+
 <p>Links Interessantes</p>
 <ul> 
 <li><span class="fontstyle0"><a href="https://time.is/Anywhere_on_Earth">https://time.is/Anywhere_on_Earth</a></span></li>
