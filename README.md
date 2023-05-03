@@ -51,11 +51,6 @@ Repositório da disciplina Metodologia Científica para Computação do <a href 
 <li><span class="fontstyle0"><a href="https://arxiv.org/abs/2302.03495">Can ChatGPT write a good boolean query for systematic review literature search</a></span></li>
 </ul>  
 
-<p>Redes Sociais para Pesquisa</p>
-<ul>
-<li><span class="fontstyle0"><a href="https://www.researchgate.net/">https://www.researchgate.net/</a></span></li>
-</ul>  
-
 <p>Links Interessantes</p>
 <ul> 
 <li><span class="fontstyle0"><a href="https://time.is/Anywhere_on_Earth">https://time.is/Anywhere_on_Earth</a></span></li>
