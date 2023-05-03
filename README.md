@@ -54,6 +54,7 @@ Repositório da disciplina Metodologia Científica para Computação do <a href 
 <p>Métodos de Avaliação</p>
 <ul>
 <li><span class="fontstyle0"><a href="http://ia600503.us.archive.org/29/items/nasa_techdoc_20000004342/20000004342.pdf">Development of NASA-TLX (Task Load Index)</a></span></li>
+ <li><span class="fontstyle0"><a href="https://link.springer.com/article/10.1007/s00530-014-0446-1">Mean opinion score (MOS) revisited: methods and applications, limitations and alternatives</a></span></li>
 </ul>  
 
 <p>Links Interessantes</p>
