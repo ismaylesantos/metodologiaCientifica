@@ -9,3 +9,9 @@ Repositório da disciplina Metodologia Científica para Computação do <a href 
 <ul> 
 <li><span class="fontstyle0"><a href= "https://matplotlib.org/stable/gallery/index.html">Matplotlib</a></span></li>
 </ul>
+
+
+<strong> Redes Sociais para Pesquisa </strong></p>
+<ul> 
+<li><span class="fontstyle0"><a href= "https://www.researchgate.net/">Research Gate</a></span></li>
+</ul>
