@@ -22,6 +22,7 @@ Repositório da disciplina Metodologia Científica para Computação do <a href 
 <p>Design Science Research</p>
 <ul>
 <li><span class="fontstyle0"><a href="https://ieeexplore.ieee.org/abstract/document/9402189">Constructive Master's Thesis Work in Industry: Guidelines for Applying Design Science Research</a></span></li>
+<li><span class="fontstyle0"><a href="https://doi.org/10.2753/MIS0742-1222240302">A design science research methodology for information systems research</a></span></li>
 </ul>  
 
 <p>Grounded Theory</p>
