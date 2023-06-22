@@ -18,6 +18,7 @@ Repositório da disciplina Metodologia Científica para Computação do <a href 
 <p>Engenharia de Software Experimental</p>
 <ul>
 <li><span class="fontstyle0"><a href= "http://www.inf.puc-rio.br/~inf2007/docs/artigos/RT-Introdu%C3%A7%C3%A3o%20a%20ESE.pdf">Introdução à Engenharia de Software Experimental</a></span></li>
+<li><span class="fontstyle0"><a href= "https://www.sciencedirect.com/science/article/abs/pii/S0164121220300856">When to update systematic literature reviews in software engineering</a></span></li>
 </ul>  
 
 <p>Design Science Research</p>
