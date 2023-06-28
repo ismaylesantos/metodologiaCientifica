@@ -35,7 +35,7 @@ Repositório da disciplina Metodologia Científica para Computação do <a href 
 
 <p>LGPD e Pesquisa</p>
 <ul>
-<li><span class="fontstyle0"><a href="https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/documentos-de-publicacoes/web-guia-anpd-tratamento-de-dados-para-fins-academicos.pdf)">Tratamento de dados pessoais para fins acadêmicos e para a realização de estudos e pesquisas</a></span></li>
+<li><span class="fontstyle0"><a href="https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/documentos-de-publicacoes/web-guia-anpd-tratamento-de-dados-para-fins-academicos.pdf">Tratamento de dados pessoais para fins acadêmicos e para a realização de estudos e pesquisas</a></span></li>
 </ul> 
 
 <p>Escrita de Artigo</p>
