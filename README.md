@@ -13,6 +13,7 @@ Repositório da disciplina Metodologia Científica para Computação do <a href 
 <li><span class="fontstyle0"><a href= "https://www.researchgate.net/publication/220162257_Rumo_ao_Titulo_de_DoutorMestre">Rumo ao Tìtulo de Doutor/Mestre</a></span></li>
 <li><span class="fontstyle0"><a href="http://ojs.rbpg.capes.gov.br/index.php/rbpg/article/view/947">Dez coisas que você deveria saber sobre o Qualis</a></span></li> 
 <li><span class="fontstyle0"><a href="https://www.researchgate.net/publication/319244623_ARTICLE_Research_Methods_and_Strategies_Workshop_A_Taxonomy_of_Research_Gaps_Identifying_and_Defining_the_Seven_Research_Gaps">A taxonomy of research gaps: Identifying and defining the seven research gaps</a></span></li>  
+<li><span class="fontstyle0"><a href= "https://metodologia.ceie-br.org/">Metodologia de Pesquisa em Informática na Educação</a></span></li>
 </ul>
 
 <p>Engenharia de Software Experimental</p>
