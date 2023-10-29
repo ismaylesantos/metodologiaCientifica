@@ -39,6 +39,11 @@ Repositório da disciplina Metodologia Científica para Computação do <a href 
 <li><span class="fontstyle0"><a href="https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/documentos-de-publicacoes/web-guia-anpd-tratamento-de-dados-para-fins-academicos.pdf">Tratamento de dados pessoais para fins acadêmicos e para a realização de estudos e pesquisas</a></span></li>
 </ul> 
 
+<p>Grupo Focal</p>
+<ul>
+<li><span class="fontstyle0"><a href="https://www.researchgate.net/publication/226241016_The_Focus_Group_Method_as_an_Empirical_Tool_in_Software_Engineering">The Focus Group Method as an Empirical Tool in Software Engineering</a></span></li>
+</ul> 
+
 <p>Escrita de Artigo</p>
 <ul>
 <li><span class="fontstyle0"><a href="http://horizontes.sbc.org.br/index.php/2021/03/guia-rapido-para-submissao-anonima-de-codigo-e-dados-e-facil/">  http://horizontes.sbc.org.br/index.php/2021/03/guia-rapido-para-submissao-anonima-de-codigo-e-dados-e-facil/</a></span></li>   
